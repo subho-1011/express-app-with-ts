@@ -23,7 +23,7 @@ Make sure you have the following installed:
 - Use GitHub's **"Use this template"** button or clone the repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/express-ts-app-template.git <your-project-name>
+git clone https://github.com/subho-1011/express-app-with-ts.git <your-project-name>
 ```
 
 #### 2. Rename the `package.json`:
@@ -46,6 +46,7 @@ Open the `package.json` file in the cloned project directory and change the `nam
 Run the following command in the project directory to install the required dependencies:
 
 ```bash
+cd <your-project-name>
 npm install
 ```
 
