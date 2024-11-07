@@ -11,7 +11,15 @@
     "lint": "eslint .",
     "format": "prettier --write ."
   },
-  "keywords": [],
+  "keywords": [
+    "express",
+    "typescript",
+    "node",
+    "express-ts-app",
+    "web-api",
+    "backend",
+    "typescript-template"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
